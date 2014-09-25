@@ -1,4 +1,4 @@
-Robot-Wars
+Robot Wars
 ==========
 
 This message will self destruct.
